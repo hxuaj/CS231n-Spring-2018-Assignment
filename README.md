@@ -2,7 +2,11 @@
 
 [CS231n](http://cs231n.stanford.edu/2018/): Convolutional Neural Networks for Visual Recognition, a course from stanford.
 
-This is my CS231n course assignment repository, which includes 3 assignments. I worked through the assignments to reinforce my understanding of deep learning computer vision.
+This is my CS231n course assignment repository, which includes 3 assignments and my handwritten notebooks. I worked through the assignments to reinforce my understanding of deep learning computer vision.
+
+### Notebooks
+- [Lecture Notes](https://github.com/hxuaj/CS231n_Spring_2018_Assignment/blob/master/Notebooks/CS231n%20Lecture%20Notebook.pdf)
+- [Assignment 3 Notes](https://github.com/hxuaj/CS231n_Spring_2018_Assignment/blob/master/Notebooks/CS231n%20Assignment%203.pdf)
 
 ### Assignment 1:
 - [Q1](https://github.com/hxuaj/CS231n_Spring_2018_Assignment/blob/master/assignment1/knn.ipynb): k-Nearest Neighbor classifier. 
